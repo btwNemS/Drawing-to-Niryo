@@ -6,7 +6,7 @@ from scipy.interpolate import splprep, splev
 # -----------------------------
 # CONFIG ROBOT
 # -----------------------------
-ROBOT_IP = "169.254.200.200"
+ROBOT_IP = "xxx.xxx.xxx.xxx"
 
 DRAW_WIDTH_M = 0.35
 DRAW_HEIGHT_M = DRAW_WIDTH_M * 0.5
